@@ -87,7 +87,7 @@ Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
 valentineName: "Sarah"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+pageTitle: "Vill du vara min Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -104,28 +104,28 @@ questions: {
         secretAnswer: "Jag gillar inte dig, Jag älskar dig! ❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
+        text: "Hur mycket älskar du mig?",          // Second question
         startText: "This much!",                   // Text before percentage
-        nextBtn: "Next ❤️"                         // Next button text
+        nextBtn: "Nästa ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        text: "Vill du vara min Valentine...?",      // Final question
+        yesBtn: "Ja!",                            // Yes button text
+        noBtn: "Nej"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
+    extreme: "WOOOOW älskar du mig så mycket? 🥰🚀💝",  // Shows above 5000%
     high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
     normal: "And beyond! 🥰"                           // Shows above 100%
 }
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "Yay! Jag är den lyckligaste människan i världen...",     // Celebration title
+    message: "kom nu och ta din gåva...",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
